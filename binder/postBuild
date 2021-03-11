@@ -1,0 +1,2 @@
+jupyter labextension install --minimize=False @jupyter-widgets/jupyterlab-manager
+jupyter serverextension enable --py nbgitpuller --sys-prefix
